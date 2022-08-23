@@ -6,7 +6,8 @@
         "dotenv": "^8.2.0",
         "node-schedule": "^1.3.2",
         "sequelize": "^6.3.5",
-        "sqlite3": "^5.0.0"
+        "sqlite3": "^5.0.0",
+        "assert-plus": "^1.0.0"
     },
     "name": "Canvas-Student-Announcement-Discord-Bot"
 }
